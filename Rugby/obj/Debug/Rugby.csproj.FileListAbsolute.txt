@@ -1,0 +1,9 @@
+c:\users\buzz\documents\visual studio 2013\Projects\Rugby\Rugby\bin\Debug\Rugby.exe.config
+c:\users\buzz\documents\visual studio 2013\Projects\Rugby\Rugby\bin\Debug\Rugby.exe
+c:\users\buzz\documents\visual studio 2013\Projects\Rugby\Rugby\bin\Debug\Rugby.pdb
+c:\users\buzz\documents\visual studio 2013\Projects\Rugby\Rugby\obj\Debug\Rugby.csprojResolveAssemblyReference.cache
+c:\users\buzz\documents\visual studio 2013\Projects\Rugby\Rugby\obj\Debug\Rugby.Rugby.resources
+c:\users\buzz\documents\visual studio 2013\Projects\Rugby\Rugby\obj\Debug\Rugby.Properties.Resources.resources
+c:\users\buzz\documents\visual studio 2013\Projects\Rugby\Rugby\obj\Debug\Rugby.csproj.GenerateResource.Cache
+c:\users\buzz\documents\visual studio 2013\Projects\Rugby\Rugby\obj\Debug\Rugby.exe
+c:\users\buzz\documents\visual studio 2013\Projects\Rugby\Rugby\obj\Debug\Rugby.pdb

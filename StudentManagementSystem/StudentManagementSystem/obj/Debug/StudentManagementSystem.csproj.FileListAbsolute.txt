@@ -1,0 +1,21 @@
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment5\StudentManagementSystem\bin\Debug\StudentManagementSystem.dll
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment5\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment5\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment5\StudentManagementSystem\obj\Debug\StudentManagementSystem.dll
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment5\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\bin\Debug\StudentManagementSystem.dll
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\bin\Debug\mscorlib.dll
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\bin\Debug\normidna.nlp
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\bin\Debug\normnfc.nlp
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\bin\Debug\normnfd.nlp
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\bin\Debug\normnfkc.nlp
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\bin\Debug\normnfkd.nlp
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\obj\Debug\StudentManagementSystem.dll
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystem\bin\Debug\StudentManagementSystem.dll
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystem\obj\Debug\StudentManagementSystem.dll
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb

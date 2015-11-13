@@ -1,0 +1,52 @@
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystemGUI.exe.config
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.csprojResolveAssemblyReference.cache
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.Properties.Resources.resources
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.csproj.GenerateResource.Cache
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystemGUI.exe
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystemGUI.pdb
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystem.dll
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystem.pdb
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.exe
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.pdb
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.MainApp.resources
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.AddPaper.resources
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystemGUI.exe.config
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystemGUI.exe
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystemGUI.pdb
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\mscorlib.dll
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystem.dll
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\normidna.nlp
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\normnfc.nlp
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\normnfd.nlp
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\normnfkc.nlp
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\bin\Debug\normnfkd.nlp
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.AddPaper.resources
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.MainApp.resources
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.Properties.Resources.resources
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.csproj.GenerateResource.Cache
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.exe
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.pdb
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.AddStudent.resources
+C:\Users\Luke\Desktop\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.Enrol.resources
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystemGUI.exe.config
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.exe
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.pdb
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystemGUI.exe
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystemGUI.pdb
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystem.dll
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\bin\Debug\StudentManagementSystem.pdb
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.csprojResolveAssemblyReference.cache
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.AddPaper.resources
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.AddStudent.resources
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.Enrol.resources
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.MainApp.resources
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.Properties.Resources.resources
+C:\Users\buzz\Desktop\Assignment5 (1)\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.csproj.GenerateResource.Cache
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.AddStudent.resources
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.Enrol.resources
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\bin\Debug\en\StudentManagementSystemGUI.resources.dll
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.Help.resources
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\StudentManagementSystemGUI.Help.en.resources
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\StudentManagementSystemGUI\obj\Debug\en\StudentManagementSystemGUI.resources.dll

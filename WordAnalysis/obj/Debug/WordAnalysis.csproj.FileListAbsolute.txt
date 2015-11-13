@@ -1,0 +1,33 @@
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment4\WordAnalysis\bin\Debug\WordAnalysis.exe.config
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment4\WordAnalysis\bin\Debug\WordAnalysis.exe
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment4\WordAnalysis\bin\Debug\WordAnalysis.pdb
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.csprojResolveAssemblyReference.cache
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.wordAnalysis.resources
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.Properties.Resources.resources
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.csproj.GenerateResource.Cache
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.exe
+c:\users\buzz\documents\visual studio 2013\Projects\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.pdb
+E:\Assignment4\WordAnalysis\bin\Debug\WordAnalysis.exe.config
+E:\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.exe
+E:\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.csprojResolveAssemblyReference.cache
+E:\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.wordAnalysis.resources
+E:\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.Properties.Resources.resources
+E:\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.csproj.GenerateResource.Cache
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\bin\Debug\WordAnalysis.exe.config
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.exe
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.wordAnalysis.resources
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.Properties.Resources.resources
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.csproj.GenerateResource.Cache
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\bin\Debug\WordAnalysis.exe
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\bin\Debug\WordAnalysis.pdb
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\bin\Debug\mscorlib.dll
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\bin\Debug\normidna.nlp
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\bin\Debug\normnfc.nlp
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\bin\Debug\normnfd.nlp
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\bin\Debug\normnfkc.nlp
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\bin\Debug\normnfkd.nlp
+C:\Users\12232659\Desktop\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.pdb
+C:\Users\12232659\Desktop\RE FACTORED - OPEN THIS ONE\Assignment4\WordAnalysis\bin\Debug\WordAnalysis.exe.config
+C:\Users\12232659\Desktop\RE FACTORED - OPEN THIS ONE\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.exe
+C:\Users\12232659\Desktop\RE FACTORED - OPEN THIS ONE\Assignment4\WordAnalysis\obj\Debug\WordAnalysis.pdb

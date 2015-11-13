@@ -1,0 +1,24 @@
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\TDD\bin\Debug\TDD.dll
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\TDD\bin\Debug\TDD.pdb
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\TDD\bin\Debug\StudentManagementSystem.dll
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\TDD\bin\Debug\StudentManagementSystemGUI.exe
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\TDD\bin\Debug\StudentManagementSystemGUI.pdb
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\TDD\bin\Debug\StudentManagementSystem.pdb
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\TDD\obj\Debug\TDD.csprojResolveAssemblyReference.cache
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\TDD\obj\Debug\TDD.dll
+C:\Users\buzz\Documents\Visual Studio 2013\Projects\Assignment5\TDD\obj\Debug\TDD.pdb
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\TDD.dll
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\TDD.pdb
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\mscorlib.dll
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\StudentManagementSystem.dll
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\StudentManagementSystemGUI.exe
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\StudentManagementSystemGUI.pdb
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\normidna.nlp
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\normnfc.nlp
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\normnfd.nlp
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\normnfkc.nlp
+C:\Users\Luke\Desktop\Assignment5\TDD\bin\Debug\normnfkd.nlp
+C:\Users\Luke\Desktop\Assignment5\TDD\obj\Debug\TDD.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\Assignment5\TDD\obj\Debug\TDD.dll
+C:\Users\Luke\Desktop\Assignment5\TDD\obj\Debug\TDD.pdb
